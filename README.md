@@ -1,7 +1,7 @@
 # Genshin Impact for Debug
 ## Make a private server to do something related to Debug and Fun thing
 
-I see many people who are interested in this project so I made some explanations
+I saw many people who are interested in this project so I made some explanations
 
 ## What do we know so far:
 - To make this work in the new version all you have to do is find the latest Proto and do some changes in server.js which I'm still learning
